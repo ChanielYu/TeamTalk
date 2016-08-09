@@ -15,6 +15,9 @@ pod 'SCLAlertView-Objective-C', '~> 0.7.3'
 pod 'MWPhotoBrowser'
 pod 'Masonry'
 pod 'TTTAttributedLabel'
-pod 'SVWebViewController’pod 'XHImageViewer'
-pod 'ZXingObjC’
+pod 'SVWebViewController'
+pod 'XHImageViewer'
+pod 'ZXingObjC'
+pod 'Fabric'
+pod 'Crashlytics'
 end
